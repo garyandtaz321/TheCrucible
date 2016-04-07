@@ -15,3 +15,4 @@ Run `npm install` in the project directory.
 Run `bower install` in the project directory.
 
 Once you have it up and running, type grunt into the terminal and watch all your wildest dreams come true.
+# Coding-Club-2015-2016
