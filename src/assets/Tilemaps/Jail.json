@@ -1,0 +1,35 @@
+{ "height":10,
+ "layers":[
+        {
+         "data":[209, 209, 209, 209, 397, 209, 209, 209, 209, 209, 209, 114, 114, 114, 114, 114, 114, 114, 114, 209, 209, 114, 114, 114, 114, 114, 114, 114, 114, 209, 209, 114, 114, 114, 114, 114, 114, 114, 114, 209, 209, 114, 114, 114, 114, 114, 114, 114, 114, 432, 209, 114, 114, 114, 114, 114, 114, 114, 114, 209, 209, 114, 114, 114, 114, 114, 114, 114, 114, 209, 209, 114, 114, 114, 114, 114, 114, 114, 114, 432, 209, 114, 114, 114, 114, 114, 114, 114, 114, 209, 209, 432, 209, 209, 432, 209, 209, 432, 209, 209],
+         "height":10,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":23,
+         "firstgid":1,
+         "image":"..\/Sprites\/tielset.png",
+         "imageheight":672,
+         "imagewidth":736,
+         "margin":0,
+         "name":"tielset",
+         "spacing":0,
+         "tilecount":483,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "version":1,
+ "width":10
+}
